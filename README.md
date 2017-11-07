@@ -1,1 +1,1 @@
-This is CSS Ninja course.
+This is CSS Ninja course!
