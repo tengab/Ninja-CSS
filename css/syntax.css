@@ -1,3 +1,7 @@
-#all-articles h2 + p + p {
-    color: green;
+span[class]{
+    color: purple;
+}
+
+div[id]{
+    background: grey;
 }
