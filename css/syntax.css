@@ -1,8 +1,13 @@
-.box{
-    border: 1px solid #000;
-    margin-top: 10px;
-    margin-left: 20px;
-    margin-right: 5px;
-    margin-bottom: 2px;
-
+.block{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000000;
 }
+
+.inline{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000000;
+    display: inline-block;
+}
+
