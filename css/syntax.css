@@ -1,13 +1,11 @@
-.first{
-    color: chocolate;
+a{
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-
-h2{
-    color: #567854;
-}
-
-.first{
-    background-color: pink;
-
+a:hover {
+    color: darkmagenta;
+    text-decoration: underline;
+    background-color: aquamarine;
 }
