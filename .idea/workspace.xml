@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eaacc9e1-6f80-4cea-870e-99547ccee95e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/syntax.css" afterPath="$PROJECT_DIR$/css/syntax.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.53457">
+    <splitter split-orientation="horizontal" split-proportion="0.3524452">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
@@ -164,12 +163,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510092405457</updated>
       <workItem from="1510092409669" duration="25937000" />
-      <workItem from="1510256450236" duration="3973000" />
+      <workItem from="1510256450236" duration="4160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29910000" />
+    <option name="totallyTimeSpent" value="30097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="69" width="1297" height="676" extended-state="6" />
