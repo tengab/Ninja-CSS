@@ -1,7 +1,13 @@
 .first{
-    text-transform: capitalize;
+    color: chocolate;
 }
 
-body, article > p{
-    text-transform: uppercase;
+
+h2{
+    color: #567854;
+}
+
+.first{
+    background-color: pink;
+
 }
